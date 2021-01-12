@@ -5,3 +5,5 @@
 ### programming languages used : PYTHON
 
 ### module used : random
+
+### Runs on terminal
